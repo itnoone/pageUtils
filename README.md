@@ -10,5 +10,5 @@
 直接将此js文件引入到项目中去，将后台返回的json数据传入这个js的方法中去，就会在指定的div组件上构造一个分页组件
 
 ## 效果图
-![image](https://github.com/itnoone/pageUtils/images/2019011817080633.png)
-![image](https://github.com/itnoone/pageUtils/images/20190118170908250.png)
+![image](https://raw.githubusercontent.com/itnoone/pageUtils/master/images/20190118170908250.png)
+![image](https://raw.githubusercontent.com/itnoone/pageUtils/master/images/2019011817080633.png)
